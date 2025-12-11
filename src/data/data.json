@@ -1,0 +1,914 @@
+{
+  "destinasi": [
+    {
+      "id": 4,
+      "slug": "pantai-senggigi",
+      "nama": "Pantai Senggigi",
+      "lokasi": "Senggigi, Lombok Barat",
+      "kota": "Lombok Barat",
+      "provinsi": "Nusa Tenggara Barat",
+      "kategori": "wisata-alam",
+      "ringkasan": "Pantai terindah di Lombok dengan pasir putih dan sunset menakjubkan",
+      "deskripsi": "Pantai Senggigi adalah destinasi wisata paling populer di Lombok. Dengan pasir putih yang halus dan air laut yang jernih, pantai ini menawarkan pemandangan yang memukau.\n\nDi sepanjang pantai terdapat berbagai resort, restoran, dan bar yang menawarkan hidangan lokal maupun internasional. Senggigi juga menjadi titik awal untuk perjalanan ke Gili Trawangan, Gili Meno, dan Gili Air.",
+      "rating": 4.6,
+      "jumlahReview": 1580,
+      "gambar": [
+        "/Senggigi/Senggigi1.jpg",
+        "/Senggigi/Senggigi2.jpg",
+        "/Senggigi/Senggigi3.jpg",
+        "/Senggigi/Senggigi4.jpg",
+        "/Senggigi/Senggigi5.jpg"
+      ],
+      "thumbnail": "/Senggigi/Senggigi1.jpg",
+      "koordinat": {
+        "lat": -8.4924,
+        "lng": 116.0421
+      },
+      "jamBuka": "24 Jam",
+      "hargaMasuk": "Gratis",
+      "fasilitas": [
+        "Parkir Luas",
+        "Toilet",
+        "Penyewaan Snorkeling",
+        "Restoran",
+        "Hotel",
+        "ATM"
+      ],
+      "tips": "Datang saat sore hari untuk menikmati sunset yang spektakuler. Banyak warung makan seafood yang menawarkan menu segar dengan harga terjangkau.",
+      "kontak": {
+        "telepon": "+62 370 693210",
+        "email": "info@senggigibeach.com",
+        "website": "www.senggigibeach.com"
+      }
+    },
+    {
+      "id": 5,
+      "slug": "gunung-rinjani",
+      "nama": "Gunung Rinjani",
+      "lokasi": "Sembalun, Lombok Timur",
+      "kota": "Lombok Timur",
+      "provinsi": "Nusa Tenggara Barat",
+      "kategori": "wisata-alam",
+      "ringkasan": "Gunung berapi tertinggi kedua di Indonesia dengan Danau Segara Anak",
+      "deskripsi": "Gunung Rinjani adalah gunung berapi yang masih aktif dengan ketinggian 3.726 mdpl. Di kawahnya terdapat Danau Segara Anak yang memiliki air berwarna biru kehijauan.\n\nPendakian ke Rinjani menawarkan pengalaman yang menantang namun sangat memuaskan. Pemandangan dari puncak saat sunrise adalah momen yang tak terlupakan. Terdapat beberapa jalur pendakian, dengan jalur Sembalun dan Senaru sebagai yang paling populer.",
+      "rating": 4.9,
+      "jumlahReview": 2340,
+      "gambar": [
+        "/Gunung Rinjani/Gunung Rinjani1.jpg",
+        "/Gunung Rinjani/Gunung Rinjani2.jpg",
+        "/Gunung Rinjani/Gunung Rinjani3.jpg",
+        "/Gunung Rinjani/Gunung Rinjani4.jpg"
+      ],
+      "thumbnail": "/Gunung Rinjani/Gunung Rinjani1.jpg",
+      "koordinat": {
+        "lat": -8.4117,
+        "lng": 116.4572
+      },
+      "jamBuka": "Pendakian 24 jam (dengan izin)",
+      "hargaMasuk": "Rp 150.000 (Weekday), Rp 200.000 (Weekend) - Turis Lokal",
+      "fasilitas": [
+        "Basecamp",
+        "Pemandu Lokal",
+        "Pos Pendakian",
+        "Shelter",
+        "Toilet",
+        "Warung"
+      ],
+      "tips": "Persiapkan kondisi fisik minimal 2 minggu sebelumnya. Gunakan jasa pemandu lokal untuk keamanan. Bawa jaket tebal dan perlengkapan mendaki yang memadai.",
+      "kontak": {
+        "telepon": "+62 370 632525",
+        "email": "info@rinjanitrek.com",
+        "website": "www.rinjanitrek.com"
+      }
+    },
+    {
+      "id": 6,
+      "slug": "gili-trawangan",
+      "nama": "Gili Trawangan",
+      "lokasi": "Gili Indah, Lombok Utara",
+      "kota": "Lombok Utara",
+      "provinsi": "Nusa Tenggara Barat",
+      "kategori": "wisata-alam",
+      "ringkasan": "Pulau kecil dengan pantai indah, kehidupan bawah laut menakjubkan",
+      "deskripsi": "Gili Trawangan adalah pulau terbesar dari tiga pulau gili (Gili Trawangan, Gili Meno, Gili Air). Pulau ini dikenal dengan pantainya yang indah, air laut yang jernih, dan kehidupan malam yang ramai.\n\nTidak ada kendaraan bermotor di pulau ini, transportasi menggunakan cidomo (kereta kuda) atau sepeda. Aktivitas populer termasuk snorkeling, diving, dan menikmati sunset di pantai barat.",
+      "rating": 4.8,
+      "jumlahReview": 3120,
+      "gambar": [
+        "/Gili Trawangan/Gili Trawangan1.jpg",
+        "/Gili Trawangan/Gili Trawangan2.jpg",
+        "/Gili Trawangan/Gili Trawangan3.jpg",
+        "/Gili Trawangan/Gili Trawangan4.jpg",
+        "/Gili Trawangan/Gili Trawangan5.jpg",
+        "/Gili Trawangan/Gili Trawangan6.jpg"
+      ],
+      "thumbnail": "/Gili Trawangan/Gili Trawangan1.jpg",
+      "koordinat": {
+        "lat": -8.3490,
+        "lng": 116.0428
+      },
+      "jamBuka": "24 Jam",
+      "hargaMasuk": "Rp 15.000 (Retribusi Pulau)",
+      "fasilitas": [
+        "Dermaga",
+        "Penyewaan Sepeda",
+        "Diving Center",
+        "Restoran",
+        "Hotel & Homestay",
+        "ATM"
+      ],
+      "tips": "Booking fast boat dari Bali atau Senggigi H-1. Bawa uang cash cukup karena tidak semua tempat menerima kartu. Sunset di pantai barat adalah yang terbaik.",
+      "kontak": {
+        "telepon": "+62 370 614000",
+        "email": "info@gilitrawangan.com",
+        "website": "www.gilitrawangan.com"
+      }
+    },
+    {
+      "id": 7,
+      "slug": "pantai-kuta-lombok",
+      "nama": "Pantai Kuta Lombok",
+      "lokasi": "Kuta, Lombok Tengah",
+      "kota": "Lombok Tengah",
+      "provinsi": "Nusa Tenggara Barat",
+      "kategori": "wisata-alam",
+      "ringkasan": "Pantai dengan pasir berbentuk merica dan ombak ideal untuk surfing",
+      "deskripsi": "Pantai Kuta Lombok memiliki keunikan tersendiri dengan pasirnya yang berbentuk seperti butiran merica. Pantai ini menawarkan pemandangan yang masih alami dan belum terlalu ramai.\n\nDaerah ini sempurna untuk surfing dengan ombak yang konsisten. Di sekitar Kuta terdapat beberapa pantai cantik lainnya seperti Pantai Tanjung Aan, Pantai Mawun, dan Pantai Selong Belanak.",
+      "rating": 4.7,
+      "jumlahReview": 1890,
+      "gambar": [
+        "/Pantai Kuta/Pantai Kuta1.jpg",
+        "/Pantai Kuta/Pantai Kuta2.jpg",
+        "/Pantai Kuta/Pantai Kuta3.jpg",
+        "/Pantai Kuta/Pantai Kuta4.jpg",
+        "/Pantai Kuta/Pantai Kuta5.jpg",
+        "/Pantai Kuta/Pantai Kuta6.jpg",
+        "/Pantai Kuta/Pantai Kuta7.jpg"
+      ],
+      "thumbnail": "/Pantai Kuta/Pantai Kuta1.jpg",
+      "koordinat": {
+        "lat": -8.8908,
+        "lng": 116.2828
+      },
+      "jamBuka": "24 Jam",
+      "hargaMasuk": "Rp 10.000",
+      "fasilitas": [
+        "Parkir",
+        "Toilet",
+        "Penyewaan Surfboard",
+        "Warung Makan",
+        "Homestay",
+        "Viewing Point"
+      ],
+      "tips": "Kunjungi Festival Bau Nyale di bulan Februari/Maret untuk melihat tradisi menangkap cacing laut. Jelajahi pantai-pantai sekitar dengan rental motor.",
+      "kontak": {
+        "telepon": "+62 370 615444",
+        "email": "info@kutalombok.com",
+        "website": "www.kutalombok.com"
+      }
+    },
+    {
+      "id": 8,
+      "slug": "air-terjun-sendang-gile",
+      "nama": "Air Terjun Sendang Gile",
+      "lokasi": "Senaru, Lombok Utara",
+      "kota": "Lombok Utara",
+      "provinsi": "Nusa Tenggara Barat",
+      "kategori": "wisata-alam",
+      "ringkasan": "Air terjun spektakuler di kaki Gunung Rinjani",
+      "deskripsi": "Air Terjun Sendang Gile adalah salah satu air terjun terindah di Lombok. Terletak di kawasan Taman Nasional Gunung Rinjani, air terjun ini memiliki ketinggian sekitar 31 meter.\n\nAir yang jatuh dari ketinggian menciptakan percikan air yang membentuk pelangi alami saat terkena sinar matahari. Trek menuju air terjun cukup mudah dengan tangga yang sudah tertata rapi.",
+      "rating": 4.5,
+      "jumlahReview": 1240,
+      "gambar": [
+        "/Sendang Gila/Sendang Gile1.jpg",
+        "/Sendang Gila/Sendang Gile2.jpg",
+        "/Sendang Gila/Sendang Gile3.jpg",
+        "/Sendang Gila/Sendang Gile4.jpg",
+        "/Sendang Gila/Sendang Gile5.jpg"
+      ],
+      "thumbnail": "/Sendang Gila/Sendang Gile1.jpg",
+      "koordinat": {
+        "lat": -8.3167,
+        "lng": 116.4064
+      },
+      "jamBuka": "07:00 - 17:00",
+      "hargaMasuk": "Rp 20.000",
+      "fasilitas": [
+        "Parkir",
+        "Toilet",
+        "Warung",
+        "Gazebo",
+        "Pemandu Lokal",
+        "Mushola"
+      ],
+      "tips": "Datang pagi hari untuk menghindari keramaian. Siapkan baju ganti jika ingin bermain air. Lanjutkan ke Air Terjun Tiu Kelep yang lebih tinggi.",
+      "kontak": {
+        "telepon": "+62 370 641010",
+        "email": "info@sendanggile.com",
+        "website": "www.sendanggile.com"
+      }
+    },
+    {
+      "id": 9,
+      "slug": "bukit-merese",
+      "nama": "Bukit Merese",
+      "lokasi": "Kuta, Lombok Tengah",
+      "kota": "Lombok Tengah",
+      "provinsi": "Nusa Tenggara Barat",
+      "kategori": "wisata-alam",
+      "ringkasan": "Bukit dengan pemandangan 360 derajat pantai selatan Lombok",
+      "deskripsi": "Bukit Merese menawarkan pemandangan spektakuler 360 derajat dari pantai-pantai selatan Lombok. Bukit ini memiliki hamparan padang rumput hijau yang luas dengan latar belakang laut biru.\n\nTempat ini sangat populer untuk fotografi, terutama saat sunrise dan sunset. Dari puncak bukit, kamu bisa melihat Pantai Tanjung Aan, Pantai Kuta, dan pantai-pantai lainnya.",
+      "rating": 4.8,
+      "jumlahReview": 1650,
+      "gambar": [
+        "/Bukit merese/Bukit merese1.jpg",
+        "/Bukit merese/Bukit merese2.jpg",
+        "/Bukit merese/Bukit merese3.jpg",
+        "/Bukit merese/Bukit merese4.jpg",
+        "/Bukit merese/Bukit merese5.jpg"
+      ],
+      "thumbnail": "/Bukit merese/Bukit merese1.jpg",
+      "koordinat": {
+        "lat": -8.8956,
+        "lng": 116.2931
+      },
+      "jamBuka": "24 Jam",
+      "hargaMasuk": "Rp 10.000",
+      "fasilitas": [
+        "Parkir",
+        "Toilet",
+        "Warung Kecil",
+        "Spot Foto",
+        "Area Berkuda"
+      ],
+      "tips": "Datang saat sunset untuk pemandangan terbaik. Pakai sepatu yang nyaman karena sedikit trekking. Bawa kamera untuk foto yang instagramable.",
+      "kontak": {
+        "telepon": "+62 370 615888",
+        "email": "info@bukitmerese.com",
+        "website": "www.bukitmerese.com"
+      }
+    },
+    {
+      "id": 10,
+      "slug": "desa-sade",
+      "nama": "Desa Sade",
+      "lokasi": "Rembitan, Lombok Tengah",
+      "kota": "Lombok Tengah",
+      "provinsi": "Nusa Tenggara Barat",
+      "kategori": "wisata-budaya",
+      "ringkasan": "Desa tradisional suku Sasak dengan rumah beratap alang-alang",
+      "deskripsi": "Desa Sade adalah desa tradisional yang mempertahankan adat istiadat suku Sasak. Rumah-rumah di desa ini masih menggunakan atap alang-alang dan lantai dari campuran tanah liat dan kotoran kerbau.\n\nPengunjung bisa melihat langsung kehidupan masyarakat Sasak, termasuk proses pembuatan kain tenun tradisional. Warga desa dengan ramah akan menjelaskan sejarah dan budaya mereka.",
+      "rating": 4.6,
+      "jumlahReview": 980,
+      "gambar": [
+        "/Desa sade/Desa sade1.jpg",
+        "/Desa sade/Desa sade2.jpg",
+        "/Desa sade/Desa sade3.jpg",
+        "/Desa sade/Desa sade4.jpg",
+        "/Desa sade/Desa sade5.jpg",
+        "/Desa sade/Desa sade6.jpg"
+      ],
+      "thumbnail": "/Desa sade/Desa sade1.jpg",
+      "koordinat": {
+        "lat": -8.8225,
+        "lng": 116.3014
+      },
+      "jamBuka": "08:00 - 17:00",
+      "hargaMasuk": "Donasi Sukarela",
+      "fasilitas": [
+        "Parkir",
+        "Toilet",
+        "Pemandu Lokal",
+        "Toko Tenun",
+        "Warung"
+      ],
+      "tips": "Hormati adat setempat dengan berpakaian sopan. Jangan ragu untuk membeli kain tenun sebagai oleh-oleh dan membantu ekonomi warga.",
+      "kontak": {
+        "telepon": "+62 370 653200",
+        "email": "info@desasade.com",
+        "website": "www.desasade.com"
+      }
+    },
+    {
+      "id": 11,
+      "slug": "masjid-islamic-center",
+      "nama": "Masjid Islamic Center NTB",
+      "lokasi": "Mataram",
+      "kota": "Mataram",
+      "provinsi": "Nusa Tenggara Barat",
+      "kategori": "wisata-budaya",
+      "ringkasan": "Masjid megah dengan arsitektur Turki yang menawan",
+      "deskripsi": "Masjid Islamic Center Nusa Tenggara Barat adalah salah satu masjid termegah di Indonesia. Arsitekturnya terinspirasi dari Masjid Biru di Istanbul, Turki, dengan kubah berwarna biru yang mencolok.\n\nMasjid ini memiliki menara setinggi 99 meter yang bisa dikunjungi untuk melihat pemandangan Kota Mataram dari atas. Interior masjid sangat indah dengan ornamen kaligrafi yang detail.",
+      "rating": 4.7,
+      "jumlahReview": 1420,
+      "gambar": [
+        "/Islamic Center/Islamic Center1.jpg",
+        "/Islamic Center/Islamic Center2.jpg",
+        "/Islamic Center/Islamic Center3.jpg",
+        "/Islamic Center/Islamic Center4.jpg",
+        "/Islamic Center/Islamic Center5.jpg"
+      ],
+      "thumbnail": "/Islamic Center/Islamic Center1.jpg",
+      "koordinat": {
+        "lat": -8.5833,
+        "lng": 116.0958
+      },
+      "jamBuka": "24 Jam (untuk ibadah), Wisata: 08:00 - 17:00",
+      "hargaMasuk": "Gratis",
+      "fasilitas": [
+        "Parkir Luas",
+        "Toilet",
+        "Tempat Wudhu",
+        "Menara (viewing deck)",
+        "Taman",
+        "Perpustakaan"
+      ],
+      "tips": "Naik ke menara untuk pemandangan kota yang menakjubkan. Berpakaian sopan sesuai aturan tempat ibadah. Datang saat tidak waktu sholat untuk kunjungan wisata.",
+      "kontak": {
+        "telepon": "+62 370 627000",
+        "email": "info@islamiccenterlombok.com",
+        "website": "www.islamiccenterlombok.com"
+      }
+    }
+  ],
+  "restoran": [
+    {
+      "id": 4,
+      "nama": "Ashtari Lounge & Kitchen",
+      "lokasi": "Kuta, Lombok Tengah",
+      "kategori": "kuliner",
+      "jenisKuliner": "Fusion & Healthy Food",
+      "rangeHarga": "Rp 75.000 - Rp 150.000",
+      "rating": 4.8,
+      "gambar": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
+      "deskripsi": "Restoran dengan pemandangan spektakuler pantai selatan Lombok. Menu fusion dan healthy yang lezat dengan bahan organik.",
+      "jarak": "10 km dari Pantai Kuta Lombok",
+      "destinasiTerdekat": "Pantai Kuta Lombok",
+      "menu": [
+        "Buddha Bowl",
+        "Nasi Goreng Organik",
+        "Smoothie Bowl",
+        "Pizza Kayu Bakar"
+      ]
+    },
+    {
+      "id": 5,
+      "nama": "Warung Menega",
+      "lokasi": "Senggigi, Lombok Barat",
+      "kategori": "kuliner",
+      "jenisKuliner": "Seafood",
+      "rangeHarga": "Rp 100.000 - Rp 250.000",
+      "rating": 4.7,
+      "gambar": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600",
+      "deskripsi": "Restoran seafood legendaris di Senggigi. Ikan dan lobster segar dipilih langsung dan dibakar dengan bumbu rahasia.",
+      "jarak": "1 km dari Pantai Senggigi",
+      "destinasiTerdekat": "Pantai Senggigi",
+      "menu": [
+        "Ikan Bakar",
+        "Lobster Bakar",
+        "Cumi Saus Padang",
+        "Plecing Kangkung"
+      ]
+    },
+    {
+      "id": 6,
+      "nama": "Taliwang 88",
+      "lokasi": "Mataram",
+      "kategori": "kuliner",
+      "jenisKuliner": "Masakan Lombok",
+      "rangeHarga": "Rp 40.000 - Rp 80.000",
+      "rating": 4.6,
+      "gambar": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600",
+      "deskripsi": "Warung legendaris yang menyajikan ayam taliwang otentik dengan sambal yang pedas dan gurih.",
+      "jarak": "2 km dari Masjid Islamic Center NTB",
+      "destinasiTerdekat": "Masjid Islamic Center NTB",
+      "menu": [
+        "Ayam Taliwang",
+        "Plecing Kangkung",
+        "Beberuk Terong",
+        "Sate Bulayak"
+      ]
+    },
+    {
+      "id": 7,
+      "nama": "Milk Espresso",
+      "lokasi": "Senggigi, Lombok Barat",
+      "kategori": "kuliner",
+      "jenisKuliner": "Cafe & Western",
+      "rangeHarga": "Rp 50.000 - Rp 120.000",
+      "rating": 4.5,
+      "gambar": "https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=600",
+      "deskripsi": "Cafe cozy dengan kopi berkualitas dan menu western yang enak. Tempat favorit untuk breakfast dan hangout.",
+      "jarak": "0.5 km dari Pantai Senggigi",
+      "destinasiTerdekat": "Pantai Senggigi",
+      "menu": [
+        "Avocado Toast",
+        "Eggs Benedict",
+        "Flat White Coffee",
+        "Pancakes"
+      ]
+    },
+    {
+      "id": 8,
+      "nama": "Warung Bintang",
+      "lokasi": "Gili Trawangan",
+      "kategori": "kuliner",
+      "jenisKuliner": "Seafood & Indonesian",
+      "rangeHarga": "Rp 60.000 - Rp 150.000",
+      "rating": 4.6,
+      "gambar": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600",
+      "deskripsi": "Warung populer di Gili Trawangan dengan menu seafood segar dan masakan Indonesia. Suasana santai dengan view laut.",
+      "jarak": "Di pantai Gili Trawangan",
+      "destinasiTerdekat": "Gili Trawangan",
+      "menu": [
+        "Grilled Fish",
+        "Calamari",
+        "Nasi Goreng Seafood",
+        "Sate Lilit"
+      ]
+    },
+    {
+      "id": 9,
+      "nama": "Rinjani Lodge Restaurant",
+      "lokasi": "Senaru, Lombok Utara",
+      "kategori": "kuliner",
+      "jenisKuliner": "Indonesian & International",
+      "rangeHarga": "Rp 80.000 - Rp 200.000",
+      "rating": 4.7,
+      "gambar": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600",
+      "deskripsi": "Restoran dengan pemandangan Gunung Rinjani yang menakjubkan. Menu organik dan healthy food untuk pendaki.",
+      "jarak": "3 km dari Air Terjun Sendang Gile",
+      "destinasiTerdekat": "Air Terjun Sendang Gile",
+      "menu": [
+        "Organic Salad",
+        "Grilled Chicken",
+        "Vegetarian Pasta",
+        "Fresh Juice"
+      ]
+    },
+    {
+      "id": 10,
+      "nama": "Warung Sasak",
+      "lokasi": "Desa Sade, Lombok Tengah",
+      "kategori": "kuliner",
+      "jenisKuliner": "Masakan Tradisional Sasak",
+      "rangeHarga": "Rp 30.000 - Rp 60.000",
+      "rating": 4.4,
+      "gambar": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=600",
+      "deskripsi": "Warung tradisional di Desa Sade yang menyajikan makanan khas Sasak otentik. Dikelola oleh warga lokal.",
+      "jarak": "Di dalam Desa Sade",
+      "destinasiTerdekat": "Desa Sade",
+      "menu": [
+        "Ayam Taliwang",
+        "Plecing Kangkung",
+        "Sate Pusut",
+        "Nasi Puyung"
+      ]
+    },
+    {
+      "id": 11,
+      "nama": "El Bazar Cafe & Restaurant",
+      "lokasi": "Bukit Merese, Lombok Tengah",
+      "kategori": "kuliner",
+      "jenisKuliner": "Cafe & Light Meals",
+      "rangeHarga": "Rp 40.000 - Rp 100.000",
+      "rating": 4.5,
+      "gambar": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?w=600",
+      "deskripsi": "Cafe dengan view 360 derajat dari Bukit Merese. Tempat perfect untuk menikmati sunset sambil ngopi.",
+      "jarak": "Di Bukit Merese",
+      "destinasiTerdekat": "Bukit Merese",
+      "menu": [
+        "Espresso",
+        "Sandwich",
+        "French Fries",
+        "Fruit Smoothie"
+      ]
+    }
+  ],
+  "penginapan": [
+    {
+      "id": 4,
+      "nama": "Katamaran Hotel & Resort",
+      "lokasi": "Senggigi, Lombok Barat",
+      "kategori": "penginapan",
+      "tipe": "Resort Bintang 4",
+      "rangeHarga": "Rp 800.000 - Rp 2.000.000 / malam",
+      "rating": 4.6,
+      "gambar": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600",
+      "deskripsi": "Resort tepi pantai dengan pemandangan sunset Senggigi yang menakjubkan. Fasilitas lengkap dan pelayanan ramah.",
+      "jarak": "0.5 km dari Pantai Senggigi",
+      "destinasiTerdekat": "Pantai Senggigi",
+      "fasilitas": [
+        "2 Kolam Renang",
+        "Restoran & Bar",
+        "Spa",
+        "Akses Pantai Langsung",
+        "WiFi Gratis",
+        "Shuttle ke Bandara"
+      ],
+      "tipeKamar": [
+        "Superior Room",
+        "Deluxe Ocean View",
+        "Family Suite"
+      ]
+    },
+    {
+      "id": 5,
+      "nama": "The Lombok Lodge",
+      "lokasi": "Senaru, Lombok Utara",
+      "kategori": "penginapan",
+      "tipe": "Eco Lodge Bintang 4",
+      "rangeHarga": "Rp 1.200.000 - Rp 3.000.000 / malam",
+      "rating": 4.8,
+      "gambar": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=600",
+      "deskripsi": "Lodge eksklusif dengan pemandangan Gunung Rinjani. Sempurna untuk base camp pendakian dan menikmati alam.",
+      "jarak": "2 km dari Air Terjun Sendang Gile",
+      "destinasiTerdekat": "Air Terjun Sendang Gile",
+      "fasilitas": [
+        "Infinity Pool",
+        "Restaurant Organik",
+        "Trekking Guide",
+        "Spa",
+        "Perpustakaan",
+        "Yoga Deck"
+      ],
+      "tipeKamar": [
+        "Deluxe Bungalow",
+        "Rinjani View Suite",
+        "Private Villa"
+      ]
+    },
+    {
+      "id": 6,
+      "nama": "Kuta Cove Resort",
+      "lokasi": "Kuta, Lombok Tengah",
+      "kategori": "penginapan",
+      "tipe": "Resort Bintang 3",
+      "rangeHarga": "Rp 500.000 - Rp 1.200.000 / malam",
+      "rating": 4.4,
+      "gambar": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=600",
+      "deskripsi": "Resort nyaman dekat pantai-pantai cantik Lombok Selatan. Cocok untuk surfer dan beach lover.",
+      "jarak": "1 km dari Pantai Kuta Lombok",
+      "destinasiTerdekat": "Pantai Kuta Lombok",
+      "fasilitas": [
+        "Kolam Renang",
+        "Restoran",
+        "Surf Board Rental",
+        "Motor Rental",
+        "WiFi Gratis",
+        "Tour Desk"
+      ],
+      "tipeKamar": [
+        "Standard Room",
+        "Deluxe Room",
+        "Family Bungalow"
+      ]
+    },
+    {
+      "id": 7,
+      "nama": "Jeeva Klui Resort",
+      "lokasi": "Senggigi, Lombok Barat",
+      "kategori": "penginapan",
+      "tipe": "Boutique Resort Bintang 4",
+      "rangeHarga": "Rp 1.500.000 - Rp 4.000.000 / malam",
+      "rating": 4.7,
+      "gambar": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600",
+      "deskripsi": "Boutique resort mewah dengan villa private pool. Desain modern tropis yang elegan dan romantis.",
+      "jarak": "2 km dari Pantai Senggigi",
+      "destinasiTerdekat": "Pantai Senggigi",
+      "fasilitas": [
+        "Private Pool Villa",
+        "Beach Front",
+        "Fine Dining Restaurant",
+        "Spa & Wellness",
+        "Water Sports",
+        "Butler Service"
+      ],
+      "tipeKamar": [
+        "Garden Villa",
+        "Beachfront Villa",
+        "Honeymoon Suite"
+      ]
+    },
+    {
+      "id": 8,
+      "nama": "Gili Trawangan Beach Resort",
+      "lokasi": "Gili Trawangan",
+      "kategori": "penginapan",
+      "tipe": "Beach Resort Bintang 3",
+      "rangeHarga": "Rp 600.000 - Rp 1.500.000 / malam",
+      "rating": 4.5,
+      "gambar": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600",
+      "deskripsi": "Resort nyaman di tepi pantai Gili Trawangan. Akses langsung ke pantai dan diving center.",
+      "jarak": "Di pantai Gili Trawangan",
+      "destinasiTerdekat": "Gili Trawangan",
+      "fasilitas": [
+        "Beach Front",
+        "Kolam Renang",
+        "Diving Center",
+        "Restaurant & Bar",
+        "Bike Rental",
+        "WiFi Gratis"
+      ],
+      "tipeKamar": [
+        "Standard Room",
+        "Deluxe Sea View",
+        "Bungalow"
+      ]
+    },
+    {
+      "id": 9,
+      "nama": "Rinjani Lodge Hotel",
+      "lokasi": "Sembalun, Lombok Timur",
+      "kategori": "penginapan",
+      "tipe": "Mountain Lodge Bintang 3",
+      "rangeHarga": "Rp 400.000 - Rp 900.000 / malam",
+      "rating": 4.6,
+      "gambar": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=600",
+      "deskripsi": "Lodge di kaki Gunung Rinjani, basecamp ideal untuk pendaki. Udara sejuk dengan view pegunungan.",
+      "jarak": "5 km dari jalur pendakian Gunung Rinjani",
+      "destinasiTerdekat": "Gunung Rinjani",
+      "fasilitas": [
+        "Restaurant",
+        "Trekking Guide Service",
+        "Gear Rental",
+        "Hot Shower",
+        "Laundry",
+        "Parking"
+      ],
+      "tipeKamar": [
+        "Standard Room",
+        "Deluxe Mountain View",
+        "Dormitory"
+      ]
+    },
+    {
+      "id": 10,
+      "nama": "Merese Hills Homestay",
+      "lokasi": "Kuta, Lombok Tengah",
+      "kategori": "penginapan",
+      "tipe": "Homestay Budget",
+      "rangeHarga": "Rp 200.000 - Rp 500.000 / malam",
+      "rating": 4.3,
+      "gambar": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=600",
+      "deskripsi": "Homestay sederhana dengan view Bukit Merese. Cocok untuk backpacker dan budget traveler.",
+      "jarak": "1.5 km dari Bukit Merese",
+      "destinasiTerdekat": "Bukit Merese",
+      "fasilitas": [
+        "Shared Kitchen",
+        "WiFi",
+        "Motor Rental",
+        "Tour Information",
+        "Shared Bathroom",
+        "Garden"
+      ],
+      "tipeKamar": [
+        "Standard Room",
+        "Family Room",
+        "Shared Dormitory"
+      ]
+    },
+    {
+      "id": 11,
+      "nama": "Sade Village Guesthouse",
+      "lokasi": "Desa Sade, Lombok Tengah",
+      "kategori": "penginapan",
+      "tipe": "Traditional Guesthouse",
+      "rangeHarga": "Rp 150.000 - Rp 350.000 / malam",
+      "rating": 4.2,
+      "gambar": "https://images.unsplash.com/photo-1587061949409-02df41d5e562?w=600",
+      "deskripsi": "Penginapan tradisional di Desa Sade. Pengalaman menginap di rumah adat Sasak yang autentik.",
+      "jarak": "Di dalam Desa Sade",
+      "destinasiTerdekat": "Desa Sade",
+      "fasilitas": [
+        "Traditional House",
+        "Cultural Experience",
+        "Local Food",
+        "Village Tour",
+        "Weaving Workshop",
+        "Shared Facilities"
+      ],
+      "tipeKamar": [
+        "Traditional Room",
+        "Family Room"
+      ]
+    }
+  ],
+  "paketWisata": [
+    {
+      "id": 7,
+      "nama": "Paket Lombok Explorer 4D3N",
+      "durasi": "4 Hari 3 Malam",
+      "harga": "Rp 3.200.000",
+      "hargaPerOrang": "Rp 3.200.000",
+      "minPeserta": 2,
+      "gambar": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800",
+      "rating": 4.8,
+      "termasuk": [
+        "Hotel bintang 4 di Senggigi (3 malam)",
+        "Transportasi full AC + driver",
+        "Makan 2x sehari (sarapan + makan siang)",
+        "Tiket masuk semua destinasi",
+        "Guide berbahasa Indonesia/Inggris",
+        "Fast boat ke Gili Trawangan PP"
+      ],
+      "itinerary": [
+        "Hari 1: Penjemputan bandara - Check in hotel Senggigi - Pantai Senggigi - Sunset di Batu Bolong - Dinner seafood",
+        "Hari 2: Fast boat ke Gili Trawangan - Snorkeling 3 spot - Keliling pulau dengan sepeda - Sunset di pantai barat - Kembali ke Senggigi",
+        "Hari 3: Air Terjun Sendang Gile - Desa Tradisional Senaru - Lunch dengan view Rinjani - Kembali ke hotel - Free time",
+        "Hari 4: Breakfast - Masjid Islamic Center - Shopping oleh-oleh di Mataram - Transfer ke bandara"
+      ],
+      "destinasi": [
+        "Pantai Senggigi",
+        "Gili Trawangan",
+        "Air Terjun Sendang Gile",
+        "Desa Senaru",
+        "Masjid Islamic Center"
+      ]
+    },
+    {
+      "id": 8,
+      "nama": "Paket Lombok South Beach 3D2N",
+      "durasi": "3 Hari 2 Malam",
+      "harga": "Rp 2.400.000",
+      "hargaPerOrang": "Rp 2.400.000",
+      "minPeserta": 2,
+      "gambar": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+      "rating": 4.7,
+      "termasuk": [
+        "Hotel bintang 3 di Kuta Lombok (2 malam)",
+        "Transportasi + driver",
+        "Makan 2x sehari",
+        "Tiket masuk destinasi",
+        "Guide lokal",
+        "Surfboard rental (optional)"
+      ],
+      "itinerary": [
+        "Hari 1: Penjemputan - Pantai Kuta Lombok - Check in hotel - Bukit Merese sunset - Dinner di warung lokal",
+        "Hari 2: Pantai Tanjung Aan - Pantai Mawun - Lunch seafood - Pantai Selong Belanak (surfing) - Desa Sade - Kembali hotel",
+        "Hari 3: Breakfast - Beach hopping (Pantai Mawi, Pantai Seger) - Shopping oleh-oleh tenun - Transfer bandara"
+      ],
+      "destinasi": [
+        "Pantai Kuta Lombok",
+        "Bukit Merese",
+        "Pantai Tanjung Aan",
+        "Pantai Mawun",
+        "Pantai Selong Belanak",
+        "Desa Sade"
+      ]
+    },
+    {
+      "id": 9,
+      "nama": "Paket Rinjani Trekking 3D2N",
+      "durasi": "3 Hari 2 Malam",
+      "harga": "Rp 2.800.000",
+      "hargaPerOrang": "Rp 2.800.000",
+      "minPeserta": 2,
+      "gambar": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "rating": 4.9,
+      "termasuk": [
+        "Tenda & sleeping bag",
+        "Porter & guide profesional",
+        "Makan 3x sehari (masak di gunung)",
+        "Permit Taman Nasional",
+        "Transportasi Mataram - Sembalun - Mataram",
+        "Medical kit & peralatan masak"
+      ],
+      "itinerary": [
+        "Hari 1: Mataram - Sembalun basecamp (08:00) - Registrasi - Mulai pendakian - Pos 1 - Pos 2 - Pos 3 - Camp Sembalun Crater Rim (2.639 mdpl)",
+        "Hari 2: Summit attack (03:00) - Puncak Rinjani 3.726 mdpl (sunrise) - Turun ke crater rim - Danau Segara Anak - Hot spring - Camp pinggir danau",
+        "Hari 3: Bangun pagi - Sarapan - Trekking turun via jalur Senaru - Pos Senaru - Tiba di basecamp (14:00) - Transfer ke Mataram"
+      ],
+      "destinasi": [
+        "Gunung Rinjani",
+        "Danau Segara Anak",
+        "Crater Rim",
+        "Hot Spring"
+      ]
+    },
+    {
+      "id": 10,
+      "nama": "Paket Gili Hopping 2D1N",
+      "durasi": "2 Hari 1 Malam",
+      "harga": "Rp 1.600.000",
+      "hargaPerOrang": "Rp 1.600.000",
+      "minPeserta": 2,
+      "gambar": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800",
+      "rating": 4.6,
+      "termasuk": [
+        "Hotel/homestay di Gili Trawangan (1 malam)",
+        "Fast boat PP Senggigi - Gili",
+        "Island hopping tour (Gili T, Gili M, Gili A)",
+        "Snorkeling equipment",
+        "Makan 2x (1 sarapan, 1 lunch)",
+        "Sepeda rental 1 hari"
+      ],
+      "itinerary": [
+        "Hari 1: Jemput hotel (08:00) - Senggigi harbor - Fast boat ke Gili Trawangan - Check in - Lunch - Keliling pulau dengan sepeda - Snorkeling Turtle Point - Sunset di pantai barat - Dinner (own cost)",
+        "Hari 2: Breakfast - Island hopping tour (Gili Meno, Gili Air) - Snorkeling 3 spot - Lunch di Gili Air - Free time - Fast boat kembali (16:00) - Transfer hotel"
+      ],
+      "destinasi": [
+        "Gili Trawangan",
+        "Gili Meno",
+        "Gili Air",
+        "Turtle Point"
+      ]
+    },
+    {
+      "id": 11,
+      "nama": "Paket Lombok Honeymoon 5D4N",
+      "durasi": "5 Hari 4 Malam",
+      "harga": "Rp 8.500.000",
+      "hargaPerOrang": "Rp 8.500.000",
+      "minPeserta": 2,
+      "gambar": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800",
+      "rating": 4.8,
+      "termasuk": [
+        "Private villa dengan private pool (4 malam) - 2 malam Senggigi, 2 malam Kuta",
+        "Candlelight dinner romantis (2x)",
+        "Couple spa treatment premium (2 jam)",
+        "Private car + driver",
+        "Flower bed decoration",
+        "Sunset cruise dengan dinner",
+        "Fast boat ke Gili Trawangan PP"
+      ],
+      "itinerary": [
+        "Hari 1: Penjemputan VIP - Check in private villa Senggigi - Welcome massage - Candlelight dinner di villa",
+        "Hari 2: Breakfast in bed - Private snorkeling di Gili Trawangan - Lunch seafood - Keliling pulau cidomo - Sunset cruise dengan dinner",
+        "Hari 3: Leisure morning - Check out - Perjalanan ke Kuta - Bukit Merese sunset - Check in villa Kuta - Couple spa 2 jam",
+        "Hari 4: Breakfast - Pantai Tanjung Aan - Lunch beach club - Pantai Mawun - Desa Sade - Candlelight dinner di Ashtari",
+        "Hari 5: Breakfast - Last massage/spa - Shopping oleh-oleh tenun - Transfer airport dengan flower garland"
+      ],
+      "destinasi": [
+        "Pantai Senggigi",
+        "Gili Trawangan",
+        "Bukit Merese",
+        "Pantai Tanjung Aan",
+        "Pantai Mawun",
+        "Desa Sade"
+      ]
+    },
+    {
+      "id": 12,
+      "nama": "Paket Lombok Budget Backpacker 3D2N",
+      "durasi": "3 Hari 2 Malam",
+      "harga": "Rp 1.100.000",
+      "hargaPerOrang": "Rp 1.100.000",
+      "minPeserta": 2,
+      "gambar": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800",
+      "rating": 4.4,
+      "termasuk": [
+        "Hostel/guesthouse (2 malam) - 1 malam Senggigi, 1 malam Kuta",
+        "Sepeda motor rental (2 hari)",
+        "Sarapan sederhana",
+        "Tiket masuk destinasi",
+        "List rekomendasi tempat murah",
+        "Basic travel insurance"
+      ],
+      "itinerary": [
+        "Hari 1: Penjemputan - Check in hostel Senggigi - Rental motor - Pantai Senggigi - Batu Bolong sunset - Makan di warung",
+        "Hari 2: Breakfast - Riding ke Kuta (2 jam) - Pantai Kuta - Bukit Merese - Desa Sade - Check in hostel Kuta",
+        "Hari 3: Breakfast - Pantai Tanjung Aan - Pantai Mawun - Return motor - Shopping oleh-oleh - Transfer bandara"
+      ],
+      "destinasi": [
+        "Pantai Senggigi",
+        "Pantai Kuta Lombok",
+        "Bukit Merese",
+        "Desa Sade",
+        "Pantai Tanjung Aan",
+        "Pantai Mawun"
+      ]
+    },
+    {
+      "id": 13,
+      "nama": "Paket Lombok Waterfall & Culture 3D2N",
+      "durasi": "3 Hari 2 Malam",
+      "harga": "Rp 2.600.000",
+      "hargaPerOrang": "Rp 2.600.000",
+      "minPeserta": 2,
+      "gambar": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800",
+      "rating": 4.7,
+      "termasuk": [
+        "Hotel bintang 3-4 (2 malam) di Senggigi/Mataram",
+        "Transportasi + driver",
+        "Makan 2x sehari",
+        "Guide profesional",
+        "Tiket masuk semua destinasi",
+        "Air mineral unlimited"
+      ],
+      "itinerary": [
+        "Hari 1: Penjemputan - Air Terjun Sendang Gile - Air Terjun Tiu Kelep - Lunch view Rinjani - Desa Tradisional Senaru - Check in hotel",
+        "Hari 2: Breakfast - Masjid Islamic Center - Desa Sade (budaya Sasak) - Lunch di Kuta - Pantai Tanjung Aan - Bukit Merese sunset",
+        "Hari 3: Breakfast - Pusat tenun tradisional - Shopping oleh-oleh di Mataram - Transfer bandara"
+      ],
+      "destinasi": [
+        "Air Terjun Sendang Gile",
+        "Air Terjun Tiu Kelep",
+        "Desa Senaru",
+        "Masjid Islamic Center",
+        "Desa Sade",
+        "Pantai Tanjung Aan",
+        "Bukit Merese"
+      ]
+    }
+  ]
+}

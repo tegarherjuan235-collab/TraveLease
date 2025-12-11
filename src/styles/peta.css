@@ -1,0 +1,259 @@
+@keyframes mapReveal {
+  from {
+    opacity: 0;
+    transform: scale(0.95) translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+@keyframes buttonSlide {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes pinDrop {
+  0% {
+    transform: translateY(-100px) scale(0);
+    opacity: 0;
+  }
+  50% {
+    transform: translateY(10px) scale(1.2);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes mapPulse {
+  0%, 100% {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  50% {
+    box-shadow: 0 8px 20px rgba(37, 99, 235, 0.3);
+  }
+}
+
+.peta-container {
+  margin-bottom: 2rem;
+  animation: mapReveal 0.8s ease-out;
+}
+
+.peta-judul {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #111827;
+  position: relative;
+  display: inline-block;
+  animation: buttonSlide 0.6s ease-out;
+}
+
+.peta-judul::before {
+  content: '🗺️';
+  margin-right: 0.5rem;
+  animation: pinDrop 0.8s ease-out 0.3s backwards;
+}
+
+.peta-judul::after {
+  content: '';
+  position: absolute;
+  bottom: -6px;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #16a34a, #059669);
+  border-radius: 2px;
+  animation: buttonSlide 0.8s ease-out 0.2s forwards;
+  animation-fill-mode: forwards;
+}
+
+@keyframes underlineExpand {
+  to {
+    width: 70%;
+  }
+}
+
+.peta-judul::after {
+  animation: buttonSlide 0.6s ease-out 0.2s backwards, underlineExpand 0.6s ease-out 0.5s forwards;
+}
+
+.peta-wrapper {
+  border-radius: 1rem;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: relative;
+  animation: mapReveal 0.8s ease-out 0.2s backwards, mapPulse 3s ease-in-out infinite 1s;
+  border: 3px solid transparent;
+  background: linear-gradient(white, white) padding-box,
+              linear-gradient(135deg, #16a34a, #059669) border-box;
+}
+
+.peta-wrapper::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(22, 163, 74, 0.1) 0%, transparent 100%);
+  pointer-events: none;
+  z-index: 1;
+}
+
+.peta-wrapper iframe {
+  display: block;
+  width: 100%;
+  transition: transform 0.3s ease;
+}
+
+.peta-wrapper:hover iframe {
+  transform: scale(1.02);
+}
+
+.peta-tombol-grup {
+  display: flex;
+  gap: 1rem;
+  animation: buttonSlide 0.8s ease-out 0.4s backwards;
+}
+
+.peta-tombol-grup a {
+  flex: 1;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.peta-tombol-grup a::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.3);
+  transform: translate(-50%, -50%);
+  transition: width 0.6s, height 0.6s;
+}
+
+.peta-tombol-grup a:hover::before {
+  width: 400px;
+  height: 400px;
+}
+
+.tombol-hijau {
+  background: linear-gradient(135deg, #16a34a 0%, #059669 100%);
+  color: white;
+  padding: 1rem 1.5rem;
+  border-radius: 0.75rem;
+  font-weight: 600;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 15px rgba(22, 163, 74, 0.3);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.tombol-hijau::after {
+  content: '📍';
+  font-size: 1.25rem;
+  transition: transform 0.3s ease;
+}
+
+.tombol-hijau:hover {
+  background: linear-gradient(135deg, #15803d 0%, #047857 100%);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(22, 163, 74, 0.4);
+}
+
+.tombol-hijau:hover::after {
+  transform: scale(1.2) rotate(10deg);
+  animation: pinDrop 0.6s ease-out;
+}
+
+.tombol-hijau:active {
+  transform: translateY(-1px);
+}
+
+.tombol-outline-hijau {
+  background: white;
+  color: #16a34a;
+  border: 2px solid #16a34a;
+  padding: 1rem 1.5rem;
+  border-radius: 0.75rem;
+  font-weight: 600;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  box-shadow: 0 2px 8px rgba(22, 163, 74, 0.15);
+}
+
+.tombol-outline-hijau::after {
+  content: '🧭';
+  font-size: 1.25rem;
+  transition: transform 0.3s ease;
+}
+
+.tombol-outline-hijau:hover {
+  background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+  border-color: #059669;
+  color: #059669;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(22, 163, 74, 0.25);
+}
+
+.tombol-outline-hijau:hover::after {
+  transform: scale(1.2) rotate(360deg);
+}
+
+.tombol-outline-hijau:active {
+  transform: translateY(-1px);
+}
+
+/* Efek loading untuk iframe */
+.peta-wrapper.loading::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, transparent, rgba(22, 163, 74, 0.2), transparent);
+  animation: shimmer 2s infinite;
+  z-index: 2;
+}
+
+/* Animasi tombol saat pertama muncul */
+.peta-tombol-grup a:nth-child(1) {
+  animation: buttonSlide 0.6s ease-out 0.5s backwards;
+}
+
+.peta-tombol-grup a:nth-child(2) {
+  animation: buttonSlide 0.6s ease-out 0.6s backwards;
+}
+
+@media (max-width: 768px) {
+  .peta-tombol-grup {
+    flex-direction: column;
+  }
+  
+  .peta-judul {
+    font-size: 1.25rem;
+  }
+  
+  .peta-wrapper {
+    border-radius: 0.75rem;
+  }
+}
