@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="kontainer">
         <div className="footer-grid">
           <div className="footer-kolom">
-            <h3 className="footer-judul">LombokTour</h3>
+            <h3 className="footer-judul">TraveLease</h3>
             <p className="footer-deskripsi">
               Jelajahi keindahan Lombok bersama kami. Pengalaman wisata terbaik dengan harga terjangkau.
             </p>
@@ -15,7 +15,7 @@ export default function Footer() {
           <div className="footer-kolom">
             <h4 className="footer-subjudul">Kontak</h4>
             <p className="footer-item">📞 +62 819 157 710 10</p>
-            <p className="footer-item">📧 info@Lomboktour.com</p>
+            <p className="footer-item">📧 info@TraveLease.com</p>
             <p className="footer-item">📍 Mataram, Lombok, Indonesia</p>
           </div>
           
@@ -31,7 +31,7 @@ export default function Footer() {
         
         <div className="footer-bottom">
           <p className="copyright">
-            &copy; 2025 LombokTour. All rights reserved.
+            &copy; 2025 TraveLease. All rights reserved.
           </p>
         </div>
       </div>
