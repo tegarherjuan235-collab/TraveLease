@@ -13,13 +13,13 @@
       "rating": 4.6,
       "jumlahReview": 1580,
       "gambar": [
-        "/Senggigi/Senggigi1.jpg",
-        "/Senggigi/Senggigi2.jpg",
-        "/Senggigi/Senggigi3.jpg",
-        "/Senggigi/Senggigi4.jpg",
-        "/Senggigi/Senggigi5.jpg"
+        "Senggigi/Senggigi1.jpg",
+        "Senggigi/Senggigi2.jpg",
+        "Senggigi/Senggigi3.jpg",
+        "Senggigi/Senggigi4.jpg",
+        "Senggigi/Senggigi5.jpg"
       ],
-      "thumbnail": "/Senggigi/Senggigi1.jpg",
+      "thumbnail": "Senggigi/Senggigi1.jpg",
       "koordinat": {
         "lat": -8.4924,
         "lng": 116.0421
@@ -54,12 +54,12 @@
       "rating": 4.9,
       "jumlahReview": 2340,
       "gambar": [
-        "/Gunung-Rinjani/Gunung-Rinjani1.jpg",
-        "/Gunung-Rinjani/Gunung-Rinjani2.jpg",
-        "/Gunung-Rinjani/Gunung-Rinjani3.jpg",
-        "/Gunung-Rinjani/Gunung-Rinjani4.jpg"
+        "Gunung-Rinjani/Gunung-Rinjani1.jpg",
+        "Gunung-Rinjani/Gunung-Rinjani2.jpg",
+        "Gunung-Rinjani/Gunung-Rinjani3.jpg",
+        "Gunung-Rinjani/Gunung-Rinjani4.jpg"
       ],
-      "thumbnail": "/Gunung Rinjani/Gunung Rinjani1.jpg",
+      "thumbnail": "Gunung-Rinjani/Gunung-Rinjani1.jpg",
       "koordinat": {
         "lat": -8.4117,
         "lng": 116.4572
@@ -94,14 +94,14 @@
       "rating": 4.8,
       "jumlahReview": 3120,
       "gambar": [
-        "/Gili-Trawangan/Gili-Trawangan1.jpg",
-        "/Gili-Trawangan/Gili-Trawangan2.jpg",
-        "/Gili-Trawangan/Gili-Trawangan3.jpg",
-        "/Gili-Trawangan/Gili-Trawangan4.jpg",
-        "/Gili-Trawangan/Gili-Trawangan5.jpg",
-        "/Gili-Trawangan/Gili-Trawangan6.jpg"
+        "Gili-Trawangan/Gili-Trawangan1.jpg",
+        "Gili-Trawangan/Gili-Trawangan2.jpg",
+        "Gili-Trawangan/Gili-Trawangan3.jpg",
+        "Gili-Trawangan/Gili-Trawangan4.jpg",
+        "Gili-Trawangan/Gili-Trawangan5.jpg",
+        "Gili-Trawangan/Gili-Trawangan6.jpg"
       ],
-      "thumbnail": "/Gili-Trawangan/Gili-Trawangan1.jpg",
+      "thumbnail": "Gili-Trawangan/Gili-Trawangan1.jpg",
       "koordinat": {
         "lat": -8.3490,
         "lng": 116.0428
@@ -136,15 +136,15 @@
       "rating": 4.7,
       "jumlahReview": 1890,
       "gambar": [
-        "/Pantai-Kuta/Pantai-Kuta1.jpg",
-        "/Pantai-Kuta/Pantai-Kuta2.jpg",
-        "/Pantai-Kuta/Pantai-Kuta3.jpg",
-        "/Pantai-Kuta/Pantai-Kuta4.jpg",
-        "/Pantai-Kuta/Pantai-Kuta5.jpg",
-        "/Pantai-Kuta/Pantai-Kuta6.jpg",
-        "/Pantai-Kuta/Pantai-Kuta7.jpg"
+        "Pantai-Kuta/Pantai-Kuta1.jpg",
+        "Pantai-Kuta/Pantai-Kuta2.jpg",
+        "Pantai-Kuta/Pantai-Kuta3.jpg",
+        "Pantai-Kuta/Pantai-Kuta4.jpg",
+        "Pantai-Kuta/Pantai-Kuta5.jpg",
+        "Pantai-Kuta/Pantai-Kuta6.jpg",
+        "Pantai-Kuta/Pantai-Kuta7.jpg"
       ],
-      "thumbnail": "/Pantai-Kuta/Pantai-Kuta1.jpg",
+      "thumbnail": "Pantai-Kuta/Pantai-Kuta1.jpg",
       "koordinat": {
         "lat": -8.8908,
         "lng": 116.2828
@@ -179,13 +179,13 @@
       "rating": 4.5,
       "jumlahReview": 1240,
       "gambar": [
-        "/Sendang-Gila/Sendang-Gile1.jpg",
-        "/Sendang-Gila/Sendang-Gile2.jpg",
-        "/Sendang-Gila/Sendang-Gile3.jpg",
-        "/Sendang-Gila/Sendang-Gile4.jpg",
-        "/Sendang-Gila/Sendang-Gile5.jpg"
+        "Sendang-Gila/Sendang-Gile1.jpg",
+        "Sendang-Gila/Sendang-Gile2.jpg",
+        "Sendang-Gila/Sendang-Gile3.jpg",
+        "Sendang-Gila/Sendang-Gile4.jpg",
+        "Sendang-Gila/Sendang-Gile5.jpg"
       ],
-      "thumbnail": "/Sendang-Gila/Sendang-Gile1.jpg",
+      "thumbnail": "Sendang-Gila/Sendang-Gile1.jpg",
       "koordinat": {
         "lat": -8.3167,
         "lng": 116.4064
@@ -220,13 +220,13 @@
       "rating": 4.8,
       "jumlahReview": 1650,
       "gambar": [
-        "/Bukit-merese/Bukit-merese1.jpg",
-        "/Bukit-merese/Bukit-merese2.jpg",
-        "/Bukit-merese/Bukit-merese3.jpg",
-        "/Bukit-merese/Bukit-merese4.jpg",
-        "/Bukit-merese/Bukit-merese5.jpg"
+        "Bukit-merese/Bukit-merese1.jpg",
+        "Bukit-merese/Bukit-merese2.jpg",
+        "Bukit-merese/Bukit-merese3.jpg",
+        "Bukit-merese/Bukit-merese4.jpg",
+        "Bukit-merese/Bukit-merese5.jpg"
       ],
-      "thumbnail": "/Bukit-merese/Bukit-merese1.jpg",
+      "thumbnail": "Bukit-merese/Bukit-merese1.jpg",
       "koordinat": {
         "lat": -8.8956,
         "lng": 116.2931
@@ -260,14 +260,14 @@
       "rating": 4.6,
       "jumlahReview": 980,
       "gambar": [
-        "/Desa-sade/Desa-sade1.jpg",
-        "/Desa-sade/Desa-sade2.jpg",
-        "/Desa-sade/Desa-sade3.jpg",
-        "/Desa-sade/Desa-sade4.jpg",
-        "/Desa-sade/Desa-sade5.jpg",
-        "/Desa-sade/Desa-sade6.jpg"
+        "Desa-sade/Desa-sade1.jpg",
+        "Desa-sade/Desa-sade2.jpg",
+        "Desa-sade/Desa-sade3.jpg",
+        "Desa-sade/Desa-sade4.jpg",
+        "Desa-sade/Desa-sade5.jpg",
+        "Desa-sade/Desa-sade6.jpg"
       ],
-      "thumbnail": "/Desa-sade/Desa-sade1.jpg",
+      "thumbnail": "Desa-sade/Desa-sade1.jpg",
       "koordinat": {
         "lat": -8.8225,
         "lng": 116.3014
@@ -301,13 +301,13 @@
       "rating": 4.7,
       "jumlahReview": 1420,
       "gambar": [
-        "/Islamic-Center/Islamic-Center1.jpg",
-        "/Islamic-Center/Islamic-Center2.jpg",
-        "/Islamic-Center/Islamic-Center3.jpg",
-        "/Islamic-Center/Islamic-Center4.jpg",
-        "/Islamic-Center/Islamic-Center5.jpg"
+        "Islamic-Center/Islamic-Center1.jpg",
+        "Islamic-Center/Islamic-Center2.jpg",
+        "Islamic-Center/Islamic-Center3.jpg",
+        "Islamic-Center/Islamic-Center4.jpg",
+        "Islamic-Center/Islamic-Center5.jpg"
       ],
-      "thumbnail": "/Islamic-Center/Islamic-Center1.jpg",
+      "thumbnail": "Islamic-Center/Islamic-Center1.jpg",
       "koordinat": {
         "lat": -8.5833,
         "lng": 116.0958
